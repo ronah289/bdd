@@ -22,7 +22,7 @@ function input(){
             z.innerHTML(m);
         }
         else{
-            var m = String(y)+ "is not a leap year.";
+            var m = Stringify(y)+ "is not a leap year.";
             z.innerHTML(m);
         }
     }

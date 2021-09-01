@@ -1,0 +1,13 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+h6,input{
+    display: inline;
+    font-weight: bold;
+}
+#find{
+    font-weight: lighter;
+    border-style: none;
+    font-stretch: expanded;
+}
